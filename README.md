@@ -1,16 +1,12 @@
-# practice_4
+Практическая работа 5
+Булдыгина Елизавета Константиновна ЭФБО-05-22
 
-A new Flutter project.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/c6180a46-6fb9-45e0-9a6d-2c527ff2b592)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/064f9ba2-e24a-4330-9621-d69ca0f012a7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/f9116772-12fe-4cda-8278-30fb114445ee)
+
